@@ -1,1 +1,3 @@
-just a basic tutorial I found on youtube to help learn how to code in swiftUI
+# Weather App Using SwiftUI
+
+Honestly just a basic weather app, just wanted to practice and learn more with SwiftUI and xcode. :)
